@@ -1,0 +1,57 @@
+p {
+	font-family:san-serif;
+	font-size:10px;
+	position:absolute;
+}
+
+.draggable{
+      cursor:move;
+}
+
+.audio{
+	width:70px;
+	position:absolute;
+	left:100%;
+}
+
+.room{
+	position:absolute;
+	left:0px;
+	width:100%;
+}
+
+.performance{
+	width:200px;
+}
+.performer{
+	width:200px;
+}
+
+.avatar{
+/*	position:absolute;*/
+	top: 50%;
+	left: 50%;
+	width: 60px;
+}
+
+
+.big-item{
+	width:40%;
+}
+
+.medium-item{
+	width:20%;
+}
+
+.item{
+	width:7%;
+}
+
+
+
+#containment-wrapper {
+	      width: 1000px;
+	      height: 1000px;
+/*	      border:2px solid #ccc;
+	      padding: 10px;*/
+}
